@@ -21,7 +21,8 @@ as some advanced NLP techniques, such as LDA and word embedding. We will cluster
 newsgroups data using the k-means algorithm, and detect topics using NMF and LDA.
 
 Chapter 4, Detecting Spam Emails with Naive Bayes, will start our supervised learning
-journey. In this chapter, we focus on classification with Naïve Bayes, and we'll look at an indepth implementation. We will also cover other important machine learning concepts, such
+journey. In this chapter, we focus on classification with Naïve Bayes, and we'll look at an
+indepth implementation. We will also cover other important machine learning concepts, such
 as classification performance evaluation, model selection and tuning, and cross-validation.
 Examples including spam email detection will be demonstrated.
 
@@ -44,7 +45,8 @@ regularization, feature selection, online learning and stochastic gradient desce
 course, how to work with large datasets.
 Preface
 
-Chapter 8, Scaling Up Prediction to Terabyte Click Logs, covers online advertising clickthrough prediction, where we have millions of labeled samples in a typical large-scale
+Chapter 8, Scaling Up Prediction to Terabyte Click Logs, covers online advertising clickthrough
+prediction, where we have millions of labeled samples in a typical large-scale
 machine learning problem. In this chapter, we will explore a more scalable solution than
 the previous chapters, utilizing powerful parallel computing tools such as Apache Hadoop
 and Spark. We will cover the essential concepts of Spark, such installation, RDD, and core
