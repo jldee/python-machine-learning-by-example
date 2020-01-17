@@ -1,0 +1,70 @@
+Chapter 1, Getting Started with Machine Learning and Python, will be the starting point for
+readers who are looking forward to entering the field of machine learning with Python. It
+will introduce the essential concepts of machine learning, which we will dig deeper into
+throughout the rest of the book. In addition, it will discuss the basics of Python for machine
+learning and explain how to set it up properly for the upcoming examples and projects.
+Preface
+
+Chapter 2, Exploring the 20 Newsgroups Dataset with Text Analysis Techniques, will start
+developing the first project of the book, exploring and mining the 20 newsgroups dataset,
+which will be split into two parts—Chapter 2, Exploring the 20 Newsgroups Dataset with Text
+Analysis Techniques, and Chapter 3, Mining the 20 Newsgroups Dataset with Clustering and
+Topic Modeling Algorithms. In this chapter, readers will get familiar with NLP and various
+NLP libraries that will be used for this project. We will explain several important NLP
+techniques implementing them in NLTK. We will also cover the dimension reduction
+technique, especially t-SNE and its use in text data visualization.
+
+Chapter 3, Mining the 20 Newsgroups Dataset with Clustering and Topic Modeling Algorithms,
+will continue our newsgroups project after exploring the 20 newsgroups dataset. In this
+chapter, readers will learn about unsupervised learning and clustering algorithms, as well
+as some advanced NLP techniques, such as LDA and word embedding. We will cluster the
+newsgroups data using the k-means algorithm, and detect topics using NMF and LDA.
+
+Chapter 4, Detecting Spam Emails with Naive Bayes, will start our supervised learning
+journey. In this chapter, we focus on classification with Naïve Bayes, and we'll look at an indepth implementation. We will also cover other important machine learning concepts, such
+as classification performance evaluation, model selection and tuning, and cross-validation.
+Examples including spam email detection will be demonstrated.
+
+Chapter 5, Classifying Newsgroup Topics with a Support Vector Machine, will reuse the
+newsgroups dataset we used in Chapter 2, Exploring the 20 Newsgroups Dataset with Text
+Analysis Techniques, and Chapter 3, Mining the 20 Newsgroups Dataset with Clustering and
+Topic Modeling Algorithms. We will cover multiclass classification, as well as SVM and how
+they are applied in topic classification. Other important concepts, such as kernel machines,
+overfitting, and regularization, will be discussed as well.
+
+Chapter 6, Predicting Online Ad Click-Through with Tree-Based Algorithms, will introduce and
+explain decision trees and random forests in depth throughout the course of solving the
+advertising click-through rate problem. Important concepts of tree-based models such as
+ensemble, feature importance, and feature selection will also be covered.
+
+Chapter 7, Predicting Online Ads Click-Through with Logistic Regression, will introduce and
+explain logistic regression classifiers on the same project from the previous chapters. We
+will also cover other concepts, such as categorical variable encoding, L1 and L2
+regularization, feature selection, online learning and stochastic gradient descent, and, of
+course, how to work with large datasets.
+Preface
+
+Chapter 8, Scaling Up Prediction to Terabyte Click Logs, covers online advertising clickthrough prediction, where we have millions of labeled samples in a typical large-scale
+machine learning problem. In this chapter, we will explore a more scalable solution than
+the previous chapters, utilizing powerful parallel computing tools such as Apache Hadoop
+and Spark. We will cover the essential concepts of Spark, such installation, RDD, and core
+programming, as well as its machine learning components. We will work with the entire
+dataset of millions of samples, explore the data, build classification models, perform feature
+engineering, and performance evaluation using Spark, which scales up the computation.
+
+Chapter 9, Stock Price Prediction with Regression Algorithms, introduces the aim of this
+project, which is to analyze and predict stock market prices using the Yahoo/Google
+Finance data, and maybe additional data.
+We will start the chapter by covering the challenges in finance and looking at a brief
+explanation of the related concepts. The next step is to obtain and explore the dataset and
+start feature engineering after exploratory data analysis. The core section, looking at
+regression and regression algorithms, linear regression, decision tree regression, SVR, and
+neural networks, will follow. Readers will also practice solving regression problems using
+scikit-learn and the TensorFlow API.
+
+Chapter 10, Machine Learning Best Practices, covers best practices in machine learning. After
+covering multiple projects in this book, you will have gathered a broad picture of the
+machine learning ecosystem using Python. However, there will be issues once you start
+working on projects in the real world. This chapter aims to foolproof your learning and get
+you ready for production by providing 21 best practices throughout the entire machine
+learning workflow.
